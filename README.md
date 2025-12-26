@@ -1,0 +1,2 @@
+This project is delegated by The Odin Project.
+I shall build a basic website listing some favourite recipes. The objective is to practice fundamental HTML (and eventually also CSS) skills. I shall also add a learning outcome below this, once the project is complete.
