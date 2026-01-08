@@ -3,7 +3,14 @@
   background-color: hsl(250, 235%, 215%);
 }
 
-.page-title {
+h1 {
   font-size: large;
   font-weight: 700;
+  text-align: center;
+}
+
+.page-title {
+  box-sizing: border-box;
+  width: 700;
+  height: 300;
 }
