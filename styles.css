@@ -1,6 +1,6 @@
 * {
   font-family: 'Courier New', Courier, monospace;
-  background-color: hsl(250, 235, 215);
+  background-color: whitesmoke;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 
 .page-title {
   box-sizing: border-box;
-  border: 30px hsl(135, 206, 250);
+  border: 30px skyblue;
 
   width: 700;
   height: 300;
