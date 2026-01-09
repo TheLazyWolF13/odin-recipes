@@ -1,19 +1,52 @@
 * {
   font-family: 'Courier New', Courier, monospace;
-  background-color: whitesmoke;
 }
 
+.page-title,
 h1 {
-  font-size: large;
-  font-weight: 700;
+  background-color: paleturquoise;
+  box-sizing: border-box;
+
+  padding: 20px;
+  margin: 5px;
+
+  border: 30px steelblue;
+
   text-align: center;
+  font-size: xx-large;
+  font-weight: 900;
 }
 
-.page-title {
+.page-links,
+ul {
+  list-style: none;
+  font-size: medium;
+}
+
+.page-links {
+  background-color: antiquewhite;
   box-sizing: border-box;
-  border: 30px skyblue;
 
   width: 700;
-  height: 300;
-  padding: 50px;
+  height: 150;
+  padding: 10px;
+  margin: 5px;
+
+  border: 30px steelblue;
+}
+
+.page-links,
+ul {
+  display: flex;
+}
+
+.page-links,
+li {
+  margin-right: 20px;
+}
+
+.pizza-title,
+img {
+  position: relative;
+  object-fit: contain;
 }
